@@ -1,7 +1,7 @@
 {
 	"name": "react-redux-toolkit-movie-app",
 	"version": "0.1.0",
-	"homepage": "https://jixlen999.github.io/react-redux-toolkit-movie-app",
+	"homepage": "https://jixlen999.github.io/react-redux-toolkit-movie-app/",
 	"private": true,
 	"dependencies": {
 		"@reduxjs/toolkit": "^1.8.4",
