@@ -36,9 +36,6 @@ const Header = () => {
 					</button>
 				</form>
 			</div>
-			<div className="user-image">
-				<img src={user} alt="user" />
-			</div>
 		</div>
 	);
 };
