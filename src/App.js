@@ -13,7 +13,7 @@ function App() {
 				<Routes>
 					<Route path="/" element={<Layout />}>
 						<Route index element={<Home />} />
-						<Route path="movie/:imdbID" element={<MovieDetail />} />
+						<Route path="/movie/:imdbID" element={<MovieDetail />} />
 						<Route path="*" element={<PageNotFound />} />
 					</Route>
 				</Routes>
