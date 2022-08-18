@@ -21,7 +21,8 @@ const Header = () => {
 	return (
 		<div className="header">
 			<div className="logo">
-				<Link to="/">Movie App</Link>
+				{/* path="/react-redux-toolkit-movie-app/" is used to make it possible using gh-pages correctly */}
+				<Link to="/react-redux-toolkit-movie-app/">Movie App</Link>
 			</div>
 			<div className="search-bar">
 				<form onSubmit={submitHandler}>
