@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-redux-toolkit-movie-app/static/css/main.2d6c8a2e.css",
-    "main.js": "/react-redux-toolkit-movie-app/static/js/main.fcc54c60.js",
+    "main.js": "/react-redux-toolkit-movie-app/static/js/main.753302ed.js",
     "static/media/user.png": "/react-redux-toolkit-movie-app/static/media/user.022a1b6b2a9dbcfefe33.png",
     "index.html": "/react-redux-toolkit-movie-app/index.html",
     "main.2d6c8a2e.css.map": "/react-redux-toolkit-movie-app/static/css/main.2d6c8a2e.css.map",
-    "main.fcc54c60.js.map": "/react-redux-toolkit-movie-app/static/js/main.fcc54c60.js.map"
+    "main.753302ed.js.map": "/react-redux-toolkit-movie-app/static/js/main.753302ed.js.map"
   },
   "entrypoints": [
     "static/css/main.2d6c8a2e.css",
-    "static/js/main.fcc54c60.js"
+    "static/js/main.753302ed.js"
   ]
 }
